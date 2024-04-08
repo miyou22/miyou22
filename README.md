@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm My name is Dae Seob Jeon. You can call me Seobi. im begginer developer</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20Im%20Seobi😊&fontSize=90" />
+</div>
+<h1 align="center">Hi 👋, I'm My name is Dae Seob Jeon. You can call me Seobi. <br/> im begginer developer</h1>
 <h3 align="center">The moment my fantasy becomes reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miyou22&label=Profile%20views&color=0e75b6&style=flat" alt="miyou22" /> </p>
@@ -14,7 +17,6 @@
 
 - 📫 How to reach me **bluemiyou22@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
